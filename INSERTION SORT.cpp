@@ -3,7 +3,7 @@ void insertionsort(int [],int);
 int main()
 {
 int ele;
-int arr[5]={32,5,7,3,6};
+int arr[5]={2,5,4,3,1};
 insertionsort(arr,5);
 }
 void insertionsort(int arr[],int size)
