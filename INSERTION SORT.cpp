@@ -1,6 +1,6 @@
 #include<stdio.h>
 void insertionsort(int [],int);
-void main()
+int main()
 {
 int ele;
 int arr[5]={32,5,7,3,6};
